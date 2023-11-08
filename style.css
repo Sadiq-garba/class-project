@@ -1,0 +1,40 @@
+
+@keyframes animation{
+
+
+   from {background-color: pink;}
+
+    to { background-color:purple;}
+}
+
+
+body{
+ 
+   
+   background-color:rgb(219, 219, 222);
+   animation-name:animation;
+   animation-duration: 5s;
+
+}
+
+/* .box:hover{
+
+   background-color: green;
+
+
+
+} */
+
+
+/* 
+@media screen and (max-width: 670px) {
+
+   .box{
+      width:500px;
+      height:500px;
+      background-color:red;
+   }
+
+
+
+} */
